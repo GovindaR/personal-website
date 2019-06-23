@@ -394,8 +394,17 @@ footer fieldset .btn:hover {
 }
 
 .social_media a {
-    font-size: 20px;
+    font-size: 14px;
     padding: 0 10px;
+    color: #fff;
+}
+
+.social_media a i {
+    transition: all 0.3s ease-in-out;
+}
+
+.social_media a:hover i {
+    color: #ff2b4a;
 }
 
 .social_media a:not(:last-child) {

@@ -186,10 +186,24 @@ class Footer extends Component {
         <div className='footer_bottom'>
           <div className='center'>
             <div className='social_media'>
-              <a>f</a>
-              <a>i</a>
-              <a>l</a>
-              <a>t</a>
+              <a href='https://www.facebook.com/vega.rana.77' target='_blank'>
+                <i class='fab fa-facebook-f' />
+              </a>
+              <a
+                href='https://www.instagram.com/govinda_rana44/'
+                target='_blank'
+              >
+                <i class='fab fa-instagram' />
+              </a>
+              <a
+                href='https://www.linkedin.com/in/govinda-rana-3451a3135/'
+                target='_blank'
+              >
+                <i class='fab fa-linkedin-in' />
+              </a>
+              <a href='https://twitter.com/GovindaRanaMag2' target='_blank'>
+                <i class='fab fa-twitter' />
+              </a>
             </div>
             <p>Copyright: Govinda Rana Magar, All Rights Reserved.</p>
           </div>
