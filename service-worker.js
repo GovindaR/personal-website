@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GovindaR/personal-website/precache-manifest.1d0678bc9f443c10a7e0aecb31bc2242.js"
+  "/GovindaR/personal-website/precache-manifest.fdcede5867977fdb16c984e7b84349e8.js"
 );
 
 workbox.clientsClaim();
