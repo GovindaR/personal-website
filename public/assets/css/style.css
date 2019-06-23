@@ -379,6 +379,16 @@ footer fieldset .btn:hover {
     line-height: 1.5;
 }
 
+.rigth_item a {
+    color: #fff;
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+}
+
+.rigth_item a:hover {
+    text-decoration: underline;
+}
+
 /* footer_bottom */
 
 .footer_bottom {

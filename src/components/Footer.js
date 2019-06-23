@@ -179,6 +179,10 @@ class Footer extends Component {
                   <h4>WEB</h4>
                   <p>govindaranamagar44@gmail.com</p>
                 </li>
+                <li>
+                  <h4>CV</h4>
+                  <a href='/assets/img/CV.pdf'>Download</a>
+                </li>
               </ul>
             </div>
           </div>
@@ -187,22 +191,22 @@ class Footer extends Component {
           <div className='center'>
             <div className='social_media'>
               <a href='https://www.facebook.com/vega.rana.77' target='_blank'>
-                <i class='fab fa-facebook-f' />
+                <i className='fab fa-facebook-f' />
               </a>
               <a
                 href='https://www.instagram.com/govinda_rana44/'
                 target='_blank'
               >
-                <i class='fab fa-instagram' />
+                <i className='fab fa-instagram' />
               </a>
               <a
                 href='https://www.linkedin.com/in/govinda-rana-3451a3135/'
                 target='_blank'
               >
-                <i class='fab fa-linkedin-in' />
+                <i className='fab fa-linkedin-in' />
               </a>
               <a href='https://twitter.com/GovindaRanaMag2' target='_blank'>
-                <i class='fab fa-twitter' />
+                <i className='fab fa-twitter' />
               </a>
             </div>
             <p>Copyright: Govinda Rana Magar, All Rights Reserved.</p>
